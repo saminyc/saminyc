@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi there! 👋<br><br>I'm a passionate software Engineer who loves turning ideas into reality 👨‍💻 <br><br>When I'm not hunched over my keyboard, you can find me:<br><br>Exploring new tech trends (and maybe getting a bit too excited about them)<br><br>Gaming (I'm a bit of a pro at FIFA ⚽️)<br><br>Trying out new recipes (and probably making a mess of my kitchen 🫠)<br><br>Let's build something awesome together! 🚀
+Hi there! 👋<br><br>I'm a passionate Data Scientist who loves solving problems by analyzing and building ML models 👨‍💻 <br><br>When I'm not hunched over my keyboard, you can find me:<br><br>Exploring new tech trends (and maybe getting a bit too excited about them)<br><br>Gaming (I'm a bit of a pro at FIFA ⚽️)<br><br>Trying out new recipes (and probably making a mess of my kitchen 🫠)<br><br>Let's analyze problems together! 🚀
 
 
 ## 🌐 Socials:
