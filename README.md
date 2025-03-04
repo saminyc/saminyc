@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi there! 👋<br><br>I'm a passionate Data Scientist who loves solving problems by analyzing business problems 👨‍💻 <br><br>When I'm not hunched over my keyboard, you can find me:<br><br>Exploring new tech trends (and maybe getting a bit too excited about them)<br><br>Gaming (I'm a bit of a pro at FIFA ⚽️)<br><br>Trying out new recipes (and probably making a mess of my kitchen 🫠)<br><br>feel free to connect! 🚀
+Hi there! 👋<br><br>I'm a passionate tech enthusiast who loves solving problems 👨‍💻 <br><br>When I'm not hunched over my keyboard, you can find me:<br><br>Exploring new tech trends (and maybe getting a bit too excited about them)<br><br>Gaming (I'm a bit of a pro at FIFA ⚽️)<br><br>Trying out new recipes (and probably making a mess of my kitchen 🫠)<br><br>feel free to connect! 🚀
 
 
 ## 🌐 Socials:
